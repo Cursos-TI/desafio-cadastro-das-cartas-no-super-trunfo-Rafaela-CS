@@ -2,6 +2,7 @@
 
 int main() {
     printf("Super-Trunfo  \n");
+    //A Primeira carta...
     char estado1;
     char codigo1[5];
     char cidade1[50];
